@@ -15,6 +15,7 @@ class GGG extends test
 3
         2
                 1
+                        4
         GGG a=new GGG();
         a.aaa();
 
