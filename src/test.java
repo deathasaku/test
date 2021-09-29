@@ -12,7 +12,9 @@ class GGG extends test
     }
 
     public static void main(String[] args) {
-
+3
+        2
+                1
         GGG a=new GGG();
         a.aaa();
 
