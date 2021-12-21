@@ -5,7 +5,7 @@ public class test2 {
         do {
             i++;
             if(true)
-            continue;
+            conflict;
             System.out.println(i);
 
         } while (i < 10);
